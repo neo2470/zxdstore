@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <application>
-    <version>0.0.1</version>
+
+    <!-- 版本信息 -->
+    <version>
+        <code>1</code>
+        <name>0.0.1</name>
+        <log>这里填写版本该版本修复的内容</log>
+    </version>
+
 </application>
