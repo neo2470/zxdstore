@@ -8,4 +8,9 @@
         <log>这里填写版本该版本修复的内容</log>
     </version>
 
+    <!-- 数据信息 -->
+    <stock>
+        <amount>2744</amount>
+    </stock>
+
 </application>
